@@ -56,6 +56,8 @@ const landan = {
 
 <div align="center">
 
+<a href="https://gogurt.pages.dev"><img src="https://gogurt.pages.dev/gogurt-favicon.gif" width="48" /></a>
+
 [![GogurtSite](https://github-readme-stats.vercel.app/api/pin/?username=landan420&repo=GogurtSite&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8fd8ff&icon_color=f7a1ff&text_color=ffffff&description_lines_count=2)](https://github.com/landan420/GogurtSite)
 
 ![commit activity](https://img.shields.io/github/commit-activity/m/landan420/GogurtSite?style=flat-square&color=f7a1ff&label=commits%20this%20month&labelColor=0d1117)
