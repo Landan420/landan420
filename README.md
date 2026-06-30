@@ -52,7 +52,6 @@ const landan = {
 
 ---
 
-## gogurtsite
 
 <div align="center">
 
