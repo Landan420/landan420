@@ -4,10 +4,10 @@
 
 # landan
 
-hobby dev · gamer · music enjoyer · kansas city, mo
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=F7A1FF&center=true&vCenter=true&width=520&lines=hobby+dev+·+gamer+·+music+enjoyer;building+things+in+Kansas+City%2C+MO;playing+CS2+·+listening+to+music;.gg%2Fgogurt)](https://gogurt.pages.dev)
 
-[![site](https://img.shields.io/badge/gogurt.pages.dev-000000?style=flat-square&logo=cloudflare&logoColor=white)](https://gogurt.pages.dev)
-[![discord](https://img.shields.io/badge/discord-.gg%2Fgogurt-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/gogurt)
+[![site](https://img.shields.io/badge/gogurt.pages.dev-000000?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0d1117)](https://gogurt.pages.dev)
+[![discord](https://img.shields.io/badge/discord-.gg%2Fgogurt-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.gg/gogurt)
 
 </div>
 
