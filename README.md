@@ -35,11 +35,10 @@ every one of these is live, built from scratch, and running on cloudflare pages.
 | site | what it is | code |
 |---|---|---|
 | **[gogurt.pages.dev](https://gogurt.pages.dev)** | my bio site — live discord presence, spotify sync, and a theme that recolors itself to the album art playing | [repo](https://github.com/Landan420/GogurtSite) |
-| **[landan.pages.dev](https://landan.pages.dev)** | portfolio | |
-| **[raccoonie.pages.dev](https://raccoonie.pages.dev)** | community landing page — tailwind, gsap, webgl | |
+| **[landan.pages.dev](https://landan.pages.dev)** | portfolio | [repo](https://github.com/Landan420/Portfolio) |
 | **[ihymich.pages.dev](https://ihymich.pages.dev)** | built for michael | [repo](https://github.com/Landan420/MichaelSite) |
-| **[vanillabrice.pages.dev](https://vanillabrice.pages.dev)** | built for brice | |
-| **[floatyt.pages.dev](https://floatyt.pages.dev)** | tailwind + motion build | |
+| **[vanillabrice.pages.dev](https://vanillabrice.pages.dev)** | built for brice | [repo](https://github.com/Landan420/vanillabricesite) |
+| **[floatyt.pages.dev](https://floatyt.pages.dev)** | tailwind + motion build | [repo](https://github.com/Landan420/FloatYT) |
 | **[quibbish.pages.dev](https://quibbish.pages.dev)** | site with a d1-backed admin panel | |
 | **[tawnic.pages.dev](https://tawnic.pages.dev)** | built for tawnic | |
 
