@@ -4,11 +4,11 @@ I’m Landan. Most nights there’s a playlist on, an editor open, and somebody 
 
 ### The tracklist
 
-<a href="https://gogurt.pages.dev"><picture><source media="(prefers-reduced-motion: no-preference)" srcset="assets/sleeve-gogurt.gif"><img src="assets/sleeve-gogurt.png" width="100%" alt="Gogurt. The glass orb from my loading screen fills with color."></picture></a>
+<a href="https://gogurt.top"><picture><source media="(prefers-reduced-motion: no-preference)" srcset="assets/sleeve-gogurt.webp"><img src="assets/sleeve-gogurt.png" width="100%" alt="Gogurt. The glass orb from my loading screen fills with color."></picture></a>
 
-**[Enter Gogurt ↗](https://gogurt.pages.dev)** · See what I’m listening to. The cover art sets the colors for the whole page.
+**[Enter Gogurt ↗](https://gogurt.top)** · See what I’m listening to. The cover art sets the colors for the whole page.
 
-<a href="https://spinagame.pages.dev"><picture><source media="(prefers-reduced-motion: no-preference)" srcset="assets/sleeve-spin.gif"><img src="assets/sleeve-spin.png" width="100%" alt="Spin a Game. Steam covers roll past a gold marker and land on Elden Ring."></picture></a>
+<a href="https://spinagame.pages.dev"><picture><source media="(prefers-reduced-motion: no-preference)" srcset="assets/sleeve-spin.webp"><img src="assets/sleeve-spin.png" width="100%" alt="Spin a Game. Steam covers roll past a gold marker and land on Elden Ring."></picture></a>
 
 **[Spin a Game ↗](https://spinagame.pages.dev)** · For nights when picking a game takes longer than playing one. Spin a CS2-style reel of games you already own on Steam.
 
